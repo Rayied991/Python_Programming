@@ -30,3 +30,7 @@ d=math.floor(1.4)
 print("Ceil value : ",c)#returns 2
 print("Floor value : ",d)#returns 1
 
+#Pi=3.1416
+p=math.pi
+print("Value of Pi : ",p)
+
